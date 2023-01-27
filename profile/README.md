@@ -3,7 +3,7 @@ Analog Devices develops open-source software to bring choice, technology and com
 You will find both original source code created by ADI Engineers, and forks of various existing open-source projects where we are contributing ADI specific layers. Sharing early development is a great way to get access to code, and interact with directly with developers, through GitHub issues, EngineerZone, or pull requests.
 
 For more info, be sure to check out:
- - [EngineerZone Support Forums](https://ez.analog.com)
+ - [EngineerZone Forums](https://ez.analog.com)
  - [Doc](https://wiki.analog.com)
  - [Jobs](https://careers.analog.com/)
 
