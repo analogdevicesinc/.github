@@ -5,7 +5,8 @@ You will find both original source code created by ADI Engineers, and forks of v
 For more info, be sure to check out:
  - [ADI Developer Portal](https://developer.analog.com/)
  - [EngineerZone Forums](https://ez.analog.com)
- - [Doc](https://wiki.analog.com)
+ - [Documentation](https://analogdevicesinc.github.io)
+ - [Wiki](https://wiki.analog.com)
  - [Jobs](https://careers.analog.com/)
 
 Take caution in using code found in this organization, as not all licenses are [OSI License Compatible](https://opensource.org/osd)
